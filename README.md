@@ -5,5 +5,5 @@
 
 
 连接后，将修改的文件添加
-当前-->(add)缓冲区-->(commit)本地仓库-->(push)Github的远程仓库
+当前-->(add是 +号)缓冲区-->(commit是 提交)本地仓库-->(push是 推送、同步)Github的远程仓库
 参考链接：https://zhuanlan.zhihu.com/p/183200664
